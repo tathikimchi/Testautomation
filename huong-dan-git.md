@@ -208,6 +208,7 @@ git push origin v1.0.0
 git push origin --tags      # Push tất cả tag
 ```
 
+
 ---
 
 ## 10. Quy Trình Làm Việc Thông Thường
@@ -250,7 +251,4 @@ dist/
 build/
 ```
 
----
 
-> **Mẹo:** Dùng `git help <lệnh>` để xem hướng dẫn chi tiết cho từng lệnh.  
-> Ví dụ: `git help commit`
