@@ -237,18 +237,3 @@ git clean -fd               # Xóa file/folder chưa được track
 git log --graph --oneline   # Xem lịch sử dạng đồ thị
 ```
 
----
-
-## 12. File .gitignore
-Tạo file `.gitignore` để bỏ qua các file không cần track:
-```
-# Ví dụ .gitignore
-node_modules/
-*.log
-.env
-.DS_Store
-dist/
-build/
-```
-
-
